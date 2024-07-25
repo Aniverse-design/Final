@@ -10,7 +10,7 @@ div.container{
 background-color: rgba(249, 3, 192, 0.816);
 }
 .hero img {
-  width: 50%;
+  width: 100%;
 }
 div.left, div.middle, div.right{
 border: 3px dotted rgb(25, 5, 82);
