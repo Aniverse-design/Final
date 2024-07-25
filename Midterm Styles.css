@@ -12,6 +12,12 @@ background-color: rgba(249, 3, 192, 0.816);
 .hero img {
   width: 100%;
 }
+header img{
+  width: 100%;
+      header: 50vh;
+object-fit: cover;
+object-position: top;
+}
 div.left, div.middle, div.right{
 border: 3px dotted rgb(25, 5, 82);
 width: 100%;
